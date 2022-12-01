@@ -1,6 +1,6 @@
 # Visualizing NOAA weather datasets with Matplotlib
 
-_Done as an offshoot project while working through Python Crash Course, 2ed, by Eric Matthes_
+_Done as an offshoot project while working through Python Crash Course, 2ed, by [Eric Matthes](https://github.com/ehmatthes)_
 
 
 
