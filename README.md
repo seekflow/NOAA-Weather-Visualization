@@ -9,8 +9,8 @@ The nature of this project was to gain experience working with CSV files in Pyth
 I wanted to see how the annual temperatures varied between Austin and San Francisco (my two most recent abodes), so I pulled data from a bunch of NOAA weather stations and played with it to see what I could find out. Below are the outputs I created. 
 
 
-Check (this)[https://github.com/seekflow/NOAA-Weather-Visualization/blob/main/sf_austin_weather.py] out for the code used
-_And go (here)[https://github.com/seekflow/NOAA-Weather-Visualization/blob/main/3152763.csv] for the dataset_
+_Check [this](https://github.com/seekflow/NOAA-Weather-Visualization/blob/main/sf_austin_weather.py) out for the code used_
+_And go [here](https://github.com/seekflow/NOAA-Weather-Visualization/blob/main/3152763.csv) for the dataset_
 
 
 ----------------------------------------------------------------
